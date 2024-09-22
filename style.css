@@ -986,7 +986,7 @@ body.fullscreen-enabled #layoutToggle {
 
   .hotspotButton {
     width: 4%; /* Small buttons for smallest screens */
-    height: 4%;
+    height: 5%;
   }
 
   #myButton {
